@@ -1,0 +1,4 @@
+qa-*.png
+.tmp-*
+release.tar.gz
+__pycache__/
